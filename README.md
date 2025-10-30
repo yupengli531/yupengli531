@@ -13,5 +13,5 @@ I’m a USC M.S. in Analytics graduate who builds **end-to-end data and machine 
 **Analytics & BI:** Tableau, Power BI, Looker, Excel (PivotTables, Macros, VLOOKUP)  
 **Practices:** Feature Engineering, Cross-Validation, AUROC/Accuracy, SMOTE, TF-IDF, Statistical Testing (Mann–Whitney U, Chi-Square)
 
-## Resume
-
+## 📄 Resume
+You can view my resume [here](https://github.com/yupengli531/Portfolio/raw/main/Li,_Yupeng_Resume.pdf).
