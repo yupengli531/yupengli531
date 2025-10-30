@@ -1,16 +1,17 @@
-## Hi there 👋
+# Yupeng Li
+---
 
-<!--
-**yupengli531/yupengli531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧭 About Me
+I’m a USC M.S. in Analytics graduate who builds **end-to-end data and machine learning pipelines**: from **SQL extraction** → **Python preprocessing & feature engineering** → **modeling & interpretability** → **Tableau dashboards** for decision support. I specialize in **healthcare analytics, NLP, and predictive modeling**, turning complex data into actionable insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Core Skills
+**Languages:** Python, SQL, R  
+**Data Engineering:** ETL, MySQL, BigQuery, Azure Databricks, Google Cloud Platform (Vertex AI, BigQuery)
+**Machine Learning & NLP:** scikit-learn, Pandas, NumPy, XGBoost, AdaBoost, SHAP, LIME, spaCy, Matplotlib, Seaborn, BeautifulSoup, Requests, PCA, Hugging Face Transformers, TensorFlow, Keras  
+**Analytics & BI:** Tableau, Power BI, Looker, Excel (PivotTables, Macros, VLOOKUP)  
+**Practices:** Feature Engineering, Cross-Validation, AUROC/Accuracy, SMOTE, TF-IDF, Statistical Testing (Mann–Whitney U, Chi-Square)
+
+## Resume
+
