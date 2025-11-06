@@ -8,8 +8,8 @@ I’m a USC M.S. in Analytics graduate who builds **end-to-end data and machine 
 
 ## 🧪 Core Skills
 **Languages:** Python, SQL, R  
+**Machine Learning&NLP:** scikit-learn, Pandas, NumPy, XGBoost, AdaBoost, SHAP, LIME, spaCy, Matplotlib, Seaborn, BeautifulSoup, Requests, PCA, Hugging Face Transformers, TensorFlow, Keras  
 **Data Engineering:** ETL, MySQL, Azure Databricks, Google Cloud Platform (Vertex AI, BigQuery)
-**Machine Learning & NLP:** scikit-learn, Pandas, NumPy, XGBoost, AdaBoost, SHAP, LIME, spaCy, Matplotlib, Seaborn, BeautifulSoup, Requests, PCA, Hugging Face Transformers, TensorFlow, Keras  
 **Analytics & BI:** Tableau, Power BI, Looker, Excel (PivotTables, Macros, VLOOKUP)  
 **Practices:** Feature Engineering, Cross-Validation, AUROC/Accuracy, SMOTE, TF-IDF, Statistical Testing (Mann–Whitney U, Chi-Square)
 
